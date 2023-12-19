@@ -1,15 +1,12 @@
-# Elysia with Bun runtime
+# 🦊 osflash-twitch API
 
-## Getting Started
-To get started with this template, simply paste this command into your terminal:
-```bash
-bun create elysia ./elysia-example
-```
+My API back-end built with TypeScript a ElysiaJS.
 
-## Development
+## Running
 To start the development server run:
 ```bash
-bun run dev
+bun i
+bun dev
 ```
 
-Open http://localhost:3000/ with your browser to see the result.
+## Features
